@@ -22,4 +22,19 @@ public class A {
 		// TODO Auto-generated method stub
 
 	}
+
+	public void method_04() {
+		// TODO Auto-generated method stub
+
+	}
+
+	public void method_05() {
+		// TODO Auto-generated method stub
+
+	}
+
+	public void method_06() {
+		// TODO Auto-generated method stub
+
+	}
 }
